@@ -1,6 +1,5 @@
 /*
-* @author: 152120171104 Ezgi Ozdikyar
-* @author: 152120181058 Mine Cakir
+* @author: Ezgi Ozdikyar
 * @date: 18.11.2020
 */
 #include <stdio.h>
