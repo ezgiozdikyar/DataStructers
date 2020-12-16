@@ -140,7 +140,7 @@ int blobCount(char** blobArray, int blobRow, int blobCol, int r, int c)
 	}
 	if (blobArray[r][c] == ' ')
 	{
-		return 0;	// empty 
+		return 0;    // empty 
 	}
 	else
 	{
