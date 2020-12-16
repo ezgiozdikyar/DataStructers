@@ -1,6 +1,6 @@
 /*
-* @author: 152120181058 Mine ÇAKIR
-* @author: 152120171104 Ezgi ÖZDIKYAR
+* @author: Mine Ã‡AKIR
+* @author: Ezgi Ã–ZDIKYAR
 * @date:28/10/2020
 */
 #include <iostream>
